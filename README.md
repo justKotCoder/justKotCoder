@@ -17,12 +17,9 @@
 </p>
 
 <pre align="center">
-  ╭──────╮
-  │ ~~~  │
-  │kot() │  ~ coder kot ~
-  ╰─┬──┬─╯
-    │  │    meow in code...
-   /    \
+  /\_/\  
+ ( o.o ) 
+  > ^ <
 </pre>
 
 <p align="right"><strong><samp>」</samp></strong></p>
