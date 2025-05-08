@@ -17,9 +17,12 @@
 </p>
 
 <pre align="center">
-  /\_/\  
- ( o.o ) 
-  > ^ <
+  ╭──────╮
+  │ ~~~  │
+  │kot() │  ~ coder kot ~
+  ╰─┬──┬─╯
+    │  │    meow in code...
+   /    \
 </pre>
 
 <p align="right"><strong><samp>」</samp></strong></p>
